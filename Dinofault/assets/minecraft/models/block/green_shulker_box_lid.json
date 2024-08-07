@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_shulker_box_lid",
+  "textures": {
+    "shulker": "entity/shulker/shulker_green",
+    "particle": "block/green_shulker_box"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "ambience.waterfall": {
+    "sounds": [
+      "effective:ambient/waterfall"
+    ],
+    "subtitle": "effective.subtitles.ambience.waterfall"
+  }
+}
