@@ -1,0 +1,10 @@
+JustWolter
+    Stole their trash-can icon for the creative menu slot
+    https://modrinth.com/resourcepack/better-icon-for-trashslot
+
+Mojang / Microsoft Studio
+    General button, hotbar, and ui shading design inspired by the official mc launcher buttons
+    hud icon's inspired by modern textures like potion icons
+Mirco Wittrien (mwittrien)
+    Darkmode color scheme was originally inspired by the "DiscordRecolor" theme's palette
+    
