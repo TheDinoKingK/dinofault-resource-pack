@@ -8,3 +8,5 @@ Mojang / Microsoft Studio
 Mirco Wittrien (mwittrien)
     Darkmode color scheme was originally inspired by the "DiscordRecolor" theme's palette
     
+TheoBaldThebird + others
+    Stole & modified the particles from the Barebones PvP pack (as of jan 2025)
