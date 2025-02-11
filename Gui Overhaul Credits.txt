@@ -5,6 +5,7 @@ JustWolter
 Mojang / Microsoft Studio
     General button, hotbar, and ui shading design inspired by the official mc launcher buttons
     hud icon's inspired by modern textures like potion icons
+    
 Mirco Wittrien (mwittrien)
     Darkmode color scheme was originally inspired by the "DiscordRecolor" theme's palette
     
