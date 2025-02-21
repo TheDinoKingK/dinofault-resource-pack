@@ -4,8 +4,7 @@
 
 
 [JustWolter](https://modrinth.com/user/JustWolter)
-    Stole their [trash-can icon](https://modrinth.com/resourcepack/better-icon-for-trashslot) for the creative menu slot
-    (actually need to remove this since it's All Rights Reserved- or alternatively ask wolter for permission)
+    Creative inventory trash icon inspired by their [trash-can icon](https://modrinth.com/resourcepack/better-icon-for-trashslot)  
     
 Mojang / Microsoft Studio
     General button, hotbar, and ui shading design inspired by the official mc launcher buttons
