@@ -1,0 +1,43 @@
+{
+  "sources": [
+    {
+      "source": "entity/chest",
+      "prefix": "entity/chest/",
+      "type": "minecraft:directory"
+    },
+    {
+      "source": "entity/signs",
+      "prefix": "entity/signs/",
+      "type": "minecraft:directory"
+    },
+    {
+      "source": "entity/signs/hanging",
+      "prefix": "entity/signs/hanging/",
+      "type": "minecraft:directory"
+    },
+    {
+      "source": "gui/hanging_signs",
+      "prefix": "block/particle_hanging_sign_",
+      "type": "minecraft:directory"
+    },
+    {
+      "resource": "minecraft:entity/bell/bell_body",
+      "type": "minecraft:single"
+    },
+    {
+      "source": "entity/bed",
+      "prefix": "entity/bed/",
+      "type": "minecraft:directory"
+    },
+    {
+      "source": "entity/shulker",
+      "prefix": "entity/shulker/",
+      "type": "minecraft:directory"
+    },
+    {
+      "source": "entity/decorated_pot",
+      "prefix": "entity/decorated_pot/",
+      "type": "minecraft:directory"
+    }
+  ]
+}
