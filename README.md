@@ -4,8 +4,7 @@ Includes both the full texture pack and any extra overlay packs I may add in the
 **Please read credits.md**
 
 # Disclaimer
-Some features of these resource packs require the use of specific mods   
-I'd also recommend you to read the credits document
+Some features of these resource packs require the use of specific mods
 
 <details> <summary><h3>Dependences<h3></summary>  
 
