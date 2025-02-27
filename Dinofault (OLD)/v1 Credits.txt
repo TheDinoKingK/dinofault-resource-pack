@@ -1,5 +1,7 @@
 Credits for all Inspirations and Merged Textures (concerns original texture pack):
 
+This is likely not accurate but I'll fix it later
+
 Offroaders123:
   Made The Definitive(imo) Darkmode Texture Pack For Minecraft bedrock and java edition
   Ported All The Textures For Darkmode Into My Pack And Edited UI Textures To Taste
@@ -26,13 +28,10 @@ Rahee:
   Remixed the CirSquare+ texture's Into the Dark Mode UI
 
 ChrispyTreats:
-  Remade the red velvet cake texture from their Cake Variants texture pack
+  Took the red velvet cake texture from their Cake Variants texture pack
 
 Ninja Fandi:
   Used their Golden Gold and Real Diamonds texture pack as a reference for my own reshading adjusments of those meterials
-
-ShadowBolt:
-  Implemented their Fixed hotbar code Into the specific .json file for bedrock
 
 Steath Tanks:
   Took/Inspired to make some of the mob edits they made in their improved mobs texture pack
@@ -41,11 +40,10 @@ Kaomc_:
   Made the Mystic Rain texture pack which inspired me to make cleaner and less obnoxious particles for snow and rain
 
 Enchanted Games:
-  Took the Transparent tool tips fix(bedrock) and remade the rounded log insides 
+  Remade the rounded log insides 
 
 Stridey:
-  Took the idea of more primitive looking stone and wood tools, along with campfire like fire, some optifine related features, and the white totem wings (and ironically the experience
-  bottle design) from their DefaultEx texture pack
+  Took the idea of more primitive looking stone and wood tools, along with campfire like fire, some optifine related features, and the white totem wings from their DefaultEx texture pack
   Also took some fixes from Vanilla Tweaks
 
 Tay1qr:
