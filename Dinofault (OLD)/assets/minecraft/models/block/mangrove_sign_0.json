@@ -1,6 +1,0 @@
-{
-  "parent": "block/template_sign_0_ao",
-  "textures": {
-    "sign": "entity/signs/mangrove"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "block/template_bed_head_ao",
-  "textures": {
-    "bed": "entity/bed/orange"
-  }
-}
