@@ -21,7 +21,7 @@ Some features of these resource packs require the use of specific mods
 ## Will you add support for `this` mod?  
 Unless I personally use the mod and find any reason to change the textures, no.  
 
-## Will you port the pack to old versions (1.20 and below)?
+## Will you port the pack to old versions (1.20.1 and below)?
 Again, It's up to if I'm using that specific version myself and If I bother to  
 I most likely won't backport to older java versions unless I need to for an event or modpack
 
@@ -37,11 +37,12 @@ Yeah! I'd love to have people contribute to this and help expand support for mod
 and please do share your pack so I can add it to the 'third party addons' list 
 
 ## Can I use your pack in a modpack?
-Sure! Just give credit where you can and a link to the original place you found it (like right here!)
+Sure! Just give credit where you can and a link to the original place you found it  
+(The only official places this is hosted is on Modrinth & Github, anywhere else has likely been reuploaded without my permission unless otherwise stated)
 
-## Can I use some of your textures in my own resource pack?
+## Can I use some of your resources in my own resource pack?
 Perfectly fine if it's for personal use!  
-If you're planning to upload it on the other hand, please make sure to credit me somewhere, and check the credits document aswell  
+If you're planning to upload it on the other hand, please make sure to credit me somewhere, and check the credits document aswell (since not everything is made by me!)
 
 
 
