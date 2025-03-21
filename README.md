@@ -9,7 +9,7 @@ Some features of these resource packs require the use of specific mods
 <details> <summary><h3>Dependences<h3></summary>  
 
   
-- Continuity (or Athena)  
+- Continuity
 - Polytone
   
 **These packs are not fully compatible with optifine**
