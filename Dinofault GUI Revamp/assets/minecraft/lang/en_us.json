@@ -50,6 +50,8 @@
   "itemGroup.spawnEggs": "§7Spawn Eggs",
   "itemGroup.tools": "§7Tools & Utilities",
 
+  "chat.type.text": "%s: %s",
+
   "enchantment.level.1": "",
   "enchantment.level.2": "2",
   "enchantment.level.3": "3",
