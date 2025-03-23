@@ -11,6 +11,9 @@
 [Stridey](https://modrinth.com/user/Stridey)  
 &ensp; I think I just stole her [DefaultEx](https://modrinth.com/resourcepack/defaultex) fire & soul fire block textures, along with adding those new fire textures to the animated furnace texture  
     
+ [Vanilla Tweaks Team](https://vanillatweaks.net/)  
+ &ensp; stole cleaner bedrock texture, and stole the bottle 'o enchanting splash bottle texture (with slight modification)
+ 
 [DrewsBones](https://modrinth.com/user/DrewsBones)  
 &ensp; Took their ["Glowden Apples"](https://modrinth.com/resourcepack/glowden-apples) model file to enable unique egap texture
 
