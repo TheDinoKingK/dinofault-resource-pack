@@ -18,7 +18,7 @@
 &ensp; Took their ["Glowden Apples"](https://modrinth.com/resourcepack/glowden-apples) model file to enable unique egap texture
 
 [TheobaldTheBird](https://www.youtube.com/@TheobaldTheBird) + others  
-&ensp; Stole & modified the particles from the old 'Barebones PvP' pack (intend to replace soon.)
+&ensp; Stole & modified the particles from the ["Barebones PvP"](https://www.patreon.com/posts/barebones-pvp-1-125405270) overlay (intend to replace soon.)
 
 
 
@@ -27,7 +27,7 @@
 &ensp; Creative inventory trash icon inspired by their [trash-can icon](https://modrinth.com/resourcepack/better-icon-for-trashslot)  
     
 [Nebulr](https://modrinth.com/user/nebulr)  
- &ensp; Took the code shader code from ['default dark mode'](https://modrinth.com/resourcepack/default-dark-mode) to universally recolor the gui text gray instead of black
+ &ensp; Took the shader code from ["default dark mode"](https://modrinth.com/resourcepack/default-dark-mode) to universally recolor the gui text gray instead of black  
 Mojang  
 &ensp; General button, hotbar, and ui shading design inspired by the official mc launcher buttons  
 &ensp; hud icon's inspired by modern textures like potion icons
