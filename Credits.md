@@ -28,6 +28,7 @@
     
 [Nebulr](https://modrinth.com/user/nebulr)  
  &ensp; Took the shader code from ["default dark mode"](https://modrinth.com/resourcepack/default-dark-mode) to universally recolor the gui text gray instead of black  
+ 
 Mojang  
 &ensp; General button, hotbar, and ui shading design inspired by the official mc launcher buttons  
 &ensp; hud icon's inspired by modern textures like potion icons
