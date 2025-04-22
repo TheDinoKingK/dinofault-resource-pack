@@ -44,3 +44,9 @@ Mojang
 
 [AlphaLeoli](https://modrinth.com/user/AlphaLeoli)  
 &ensp; Merged ['better hidden bobber'](https://modrinth.com/resourcepack/rod) shader code with my pack
+
+[fre1q]()  
+&ensp; Colored slot highlight inspired by their [Green Slot Highlight](https://modrinth.com/resourcepack/green-slot-highlight/gallery) pack
+
+[CraftyGamer_](https://www.planetminecraft.com/member/craftygamer_/)  
+&ensp; Recipe Book uncraftable switch, and maybe more, were inspired by their [Tranquil gui](https://www.planetminecraft.com/texture-pack/tranquil-4147413/) pack.
