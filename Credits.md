@@ -9,7 +9,7 @@
 &ensp; stole & modified [these](https://modrinth.com/resourcepack/violets-water) water textures
 
 [Stridey](https://modrinth.com/user/Stridey)  
-&ensp; I think I just stole her [DefaultEx](https://modrinth.com/resourcepack/defaultex) fire & soul fire block textures, along with adding those new fire textures to the animated furnace texture  
+&ensp; I think I just stole her [DefaultEx](https://modrinth.com/resourcepack/defaultex) fire & soul fire block textures, along with adding those new fire textures to the animated furnace texture (old)  
     
  [Vanilla Tweaks Team](https://vanillatweaks.net/)  
  &ensp; stole cleaner bedrock texture, and stole the bottle 'o enchanting splash bottle texture (with slight modification)
@@ -17,8 +17,14 @@
 [DrewsBones](https://modrinth.com/user/DrewsBones)  
 &ensp; Took their ["Glowden Apples"](https://modrinth.com/resourcepack/glowden-apples) model file to enable unique egap texture
 
+[Miwo4ka](https://modrinth.com/user/Miwo4ka)  
+&ensp; used the same textures (and general color palette) from their ["retextured fire"](https://modrinth.com/resourcepack/retextured-fire) pack 
+
+[Oculie](https://modrinth.com/user/Oculie)  
+&ensp; took the same low fire tech used in their ['low fire'](https://modrinth.com/resourcepack/low-fire-pack) pack
+
 [TheobaldTheBird](https://www.youtube.com/@TheobaldTheBird) + others  
-&ensp; Stole & modified the particles from the ["Barebones PvP"](https://www.patreon.com/posts/barebones-pvp-1-125405270) overlay (intend to replace soon.)
+&ensp; Stole & modified some particles from the ["Barebones PvP"](https://www.patreon.com/posts/barebones-pvp-1-125405270) overlay (intend to replace soon.)
 
 
 

@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:block/template_fire_floor",
+  "textures": {
+    "fire": "minecraft:block/soul_fire_2"
+  }
+}
+
+
+// Modified by Oculie
+// modrinth.com/user/Oculie
+// www.curseforge.com/members/oculie
+
+
+// You can modify and redistribute this resource pack in any form, even commercially, AS LONG AS YOU CREDIT THE OWNER. (CC BY 4.0).
