@@ -51,6 +51,12 @@ Mojang
 [AlphaLeoli](https://modrinth.com/user/AlphaLeoli)  
 &ensp; Merged ['better hidden bobber'](https://modrinth.com/resourcepack/rod) shader code with my pack
 
+[JanCantCode](https://modrinth.com/user/JanCantCode)  
+&ensp; Took the item model file from their ['smaller totem pop'](https://modrinth.com/resourcepack/small-totem-pop?version=1.21.1) pack  
+
+[bom](https://modrinth.com/user/bom)  
+&ensp; inspired to darken the book pages like in their ['darker mode book'](https://modrinth.com/resourcepack/darker-book) pack  
+
 [fre1q]()  
 &ensp; Colored slot highlight inspired by their [Green Slot Highlight](https://modrinth.com/resourcepack/green-slot-highlight/gallery) pack
 
