@@ -1,6 +1,8 @@
 {
   "chat.type.text": "%s: %s",
 
+  "deathScreen.score.value": "",
+
   "entity.minecraft.experience_bottle": "Thrown Experience Bottle",
   "item.minecraft.experience_bottle": "Experience Bottle",
 
