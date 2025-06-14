@@ -1,0 +1,201 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:enchantments",
+    "cases": [
+      {
+        "when": [
+          {
+            "minecraft:density": 1
+          },
+          {
+            "minecraft:density": 2
+          },
+          {
+            "minecraft:density": 3
+          },
+          {
+            "minecraft:density": 4
+          },
+          {
+            "minecraft:density": 5
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "dinos-cit:item/mace_density"
+        }
+      },
+      {
+        "when": [
+          {
+            "minecraft:density": 1,
+            "minecraft:wind_burst": 1
+          },
+          {
+            "minecraft:density": 2,
+            "minecraft:wind_burst": 1
+          },
+          {
+            "minecraft:density": 3,
+            "minecraft:wind_burst": 1
+          },
+          {
+            "minecraft:density": 4,
+            "minecraft:wind_burst": 1
+          },
+          {
+            "minecraft:density": 5,
+            "minecraft:wind_burst": 1
+          },
+
+          {
+            "minecraft:density": 1,
+            "minecraft:wind_burst": 2
+          },
+          {
+            "minecraft:density": 2,
+            "minecraft:wind_burst": 2
+          },
+          {
+            "minecraft:density": 3,
+            "minecraft:wind_burst": 2
+          },
+          {
+            "minecraft:density": 4,
+            "minecraft:wind_burst": 2
+          },
+          {
+            "minecraft:density": 5,
+            "minecraft:wind_burst": 2
+          },
+
+          {
+            "minecraft:density": 1,
+            "minecraft:wind_burst": 3
+          },
+          {
+            "minecraft:density": 2,
+            "minecraft:wind_burst": 3
+          },
+          {
+            "minecraft:density": 3,
+            "minecraft:wind_burst": 3
+          },
+          {
+            "minecraft:density": 4,
+            "minecraft:wind_burst": 3
+          },
+          {
+            "minecraft:density": 5,
+            "minecraft:wind_burst": 3
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "dinos-cit:item/mace_density_windburst"
+        }
+      },
+      {
+        "when": [
+          {
+            "minecraft:breach": 1
+          },
+          {
+            "minecraft:breach": 2
+          },
+          {
+            "minecraft:breach": 3
+          },
+          {
+            "minecraft:breach": 4
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "dinos-cit:item/mace_breach"
+        }
+      },
+      {
+        "when": [
+          {
+            "minecraft:breach": 1,
+            "minecraft:wind_burst": 1
+          },
+          {
+            "minecraft:breach": 2,
+            "minecraft:wind_burst": 1
+          },
+          {
+            "minecraft:breach": 3,
+            "minecraft:wind_burst": 1
+          },
+          {
+            "minecraft:breach": 4,
+            "minecraft:wind_burst": 1
+          },
+
+          {
+            "minecraft:breach": 1,
+            "minecraft:wind_burst": 2
+          },
+          {
+            "minecraft:breach": 2,
+            "minecraft:wind_burst": 2
+          },
+          {
+            "minecraft:breach": 3,
+            "minecraft:wind_burst": 2
+          },
+          {
+            "minecraft:breach": 4,
+            "minecraft:wind_burst": 2
+          },
+
+          {
+            "minecraft:breach": 1,
+            "minecraft:wind_burst": 3
+          },
+          {
+            "minecraft:breach": 2,
+            "minecraft:wind_burst": 3
+          },
+          {
+            "minecraft:breach": 3,
+            "minecraft:wind_burst": 3
+          },
+          {
+            "minecraft:breach": 4,
+            "minecraft:wind_burst": 3
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "dinos-cit:item/mace_breach_windburst"
+        }
+      },
+      {
+        "when": [
+          {
+            "minecraft:wind_burst": 1
+          },
+          {
+            "minecraft:wind_burst": 2
+          },
+          {
+            "minecraft:wind_burst": 3
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "dinos-cit:item/mace_wind_burst"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/mace"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "model": "minecraft:item/diamond_pickaxe",
+    "property": "minecraft:component",
+    "component": "minecraft:enchantments",
+    "cases": [
+      {
+        "when": [
+          {
+            "minecraft:fortune": 1
+          },
+          {
+            "minecraft:fortune": 2
+          },
+          {
+            "minecraft:fortune": 3
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "dinos-cit:item/diamond_pickaxe_fortune"
+        }
+      },
+      {
+        "when": {
+          "minecraft:silk_touch": 1
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "dinos-cit:item/diamond_pickaxe_silk"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/diamond_pickaxe"
+    }
+  }
+}

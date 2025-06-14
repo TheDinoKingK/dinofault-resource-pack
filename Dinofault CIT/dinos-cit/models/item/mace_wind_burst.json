@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld_mace",
   "textures": {
-    "layer0": "minecraft:item/mace"
+    "layer0": "dinos-cit:item/mace_wind_burst"
   }
 }
