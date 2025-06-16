@@ -1,24 +1,28 @@
 # dinofault-resource-pack
 A minecraft java resource pack with the goal of making the game beautiful to my tastes in almost every way possible  
 Includes both the full texture pack and any extra overlay packs I may add in the future  
-**Please read credits.md**
 
-# Disclaimer
-This resource pack is supposed to be used with **Minecraft Java Edition** 1.21.5+  
-Some features of these resource packs require the use of specific mods
+# Disclaimer(s)
+This is resource pack is like a "mashup pack", as alot of assets were inspired or taken from other resource packs made by amazing people.  
+please check out [credits.md](Credits.md) to support their work, since without them, this pack would look much worse!  
+
+I will not be supporting or handling any issues with using the pack,  
+this is a personal resource pack and I didn't make this with other peoples preferences in mind  
+
+This resource pack is supposed to be used with **Minecraft Java Edition** 1.21.5+, and will likely never be ported to **Bedrock Edition** or anything before 1.21.x  
+
+Some features of these resource packs require the use of specific mods, as listed below.  
 
 <details> <summary><h3>Dependences<h3></summary>  
 
-  
 - Continuity
 - Polytone
   
-**These packs are not fully compatible with Optifine**
+**These packs are incompatible with Optifine**
 </details>
 
 <details> <summary><h3>Mods Supported<h3></summary>  
 
-  
 - Mod Menu
 - Simple Voice Chat
 - Firehud
@@ -27,17 +31,10 @@ Some features of these resource packs require the use of specific mods
 # FAQ
 
 ## Will you add support for `this` mod?  
-Unless I personally use the mod you've suggested and find any reason to change the textures, no.  
-
-## Will you backport to older versions? (below 1.21)
-It'll likely never happen unless I need to backport this pack for an event or modpack  
-
-## Will you port this to bedrock edition?
-Someday, just not today,  
-I want to finish the pack first before I think about doing any of that
+Unless I personally use the mod you've suggested, no  
 
 ## Will you support Fresh Animations or PBR Shading?
-It'll probably happen eventually, but for now it's unsupported
+It'll probably happen once the pack is 'finished', but for now it's unsupported
 
 ## Can I make my own overlay pack to add support for these missing features?
 Yeah! I'd love to have people contribute to this and help expand support for mods that I don't use myself  
