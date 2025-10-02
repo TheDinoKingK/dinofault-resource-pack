@@ -1,40 +1,45 @@
 {
   "model": {
-    "type": "minecraft:select",
-    "model": "minecraft:item/diamond_pickaxe",
-    "property": "minecraft:component",
-    "component": "minecraft:enchantments",
-    "cases": [
+    "type": "composite",
+    "models": [
       {
-        "when": [
+        "type": "model",           
+        "model": "item/diamond_pickaxe"
+      },
+      {
+        "type": "condition",
+        "property": "minecraft:component",
+        "predicate": "minecraft:enchantments",
+        "value": [
           {
-            "minecraft:fortune": 1
-          },
-          {
-            "minecraft:fortune": 2
-          },
-          {
-            "minecraft:fortune": 3
+            "enchantments": "minecraft:silk_touch"
           }
         ],
-        "model": {
-          "type": "minecraft:model",
-          "model": "dinos-cit:item/diamond_pickaxe_fortune"
+        "on_true": {
+          "type": "model",
+          "model": "dinos-cit:item/pickaxe/diamond/silk_touch"
+        },
+        "on_false": {
+          "type": "empty"
         }
       },
       {
-        "when": {
-          "minecraft:silk_touch": 1
+        "type": "condition",
+        "property": "minecraft:component",
+        "predicate": "minecraft:enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:fortune"
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "dinos-cit:item/pickaxe/diamond/fortune"
         },
-        "model": {
-          "type": "minecraft:model",
-          "model": "dinos-cit:item/diamond_pickaxe_silk"
+        "on_false": {
+          "type": "empty"
         }
       }
-    ],
-    "fallback": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/diamond_pickaxe"
-    }
+    ]
   }
-}
+} 

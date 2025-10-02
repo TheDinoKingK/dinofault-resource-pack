@@ -67,3 +67,13 @@ Mojang
 
 [CraftyGamer_](https://www.planetminecraft.com/member/craftygamer_/)  
 &ensp; Recipe Book uncraftable switch, and maybe more, were inspired by their [Tranquil gui](https://www.planetminecraft.com/texture-pack/tranquil-4147413/) pack.
+
+
+
+# Dinofault CIT:
+[Siscu](https://modrinth.com/user/Siscu)  
+&ensp; stole basically all the vanilla component cit code from their [Visual Enchantments](https://modrinth.com/resourcepack/visual-enchantments) pack for my enchantment trims
+
+
+
+

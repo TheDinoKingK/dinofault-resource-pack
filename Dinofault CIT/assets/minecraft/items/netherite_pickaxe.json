@@ -1,0 +1,45 @@
+{
+  "model": {
+    "type": "composite",
+    "models": [
+      {
+        "type": "model",           
+        "model": "item/netherite_pickaxe"
+      },
+      {
+        "type": "condition",
+        "property": "minecraft:component",
+        "predicate": "minecraft:enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:silk_touch"
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "dinos-cit:item/pickaxe/netherite/silk_touch"
+        },
+        "on_false": {
+          "type": "empty"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "minecraft:component",
+        "predicate": "minecraft:enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:fortune"
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "dinos-cit:item/pickaxe/netherite/fortune"
+        },
+        "on_false": {
+          "type": "empty"
+        }
+      }
+    ]
+  }
+} 
