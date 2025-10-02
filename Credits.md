@@ -75,5 +75,8 @@ Mojang
 &ensp; stole basically all the vanilla component cit code from their [Visual Enchantments](https://modrinth.com/resourcepack/visual-enchantments) pack for my enchantment trims
 
 
+[TheobaldTheBird](https://www.youtube.com/@TheobaldTheBird) + others  
+&ensp; was inspired by their unique CIT enchantments on tools from their ["Barebones PvP"](https://www.patreon.com/posts/barebones-pvp-1-125405270) overlay, and decided to implement my own cit enchants, but inspired by armor trims
+
 
 
