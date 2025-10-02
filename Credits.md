@@ -45,9 +45,6 @@ Mojang
 [Woulvee](https://modrinth.com/user/woulvee)  
 &ensp; Used the lang file changes from their ["No Roman Numerals"](https://modrinth.com/resourcepack/no-roman-numerals-resource-pack) resource pack
 
-[ARKK](https://modrinth.com/user/ARKK)  
-&ensp; Merged the [pumpkin head overlay](https://modrinth.com/resourcepack/pixelated-circular-pumpkin-blur) with my pack
-
 [AlphaLeoli](https://modrinth.com/user/AlphaLeoli)  
 &ensp; Merged ['better hidden bobber'](https://modrinth.com/resourcepack/rod) shader code with my pack
 
