@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "dinos-cit:item/potions/overlay/extended",
+    "layer1": "dinos-cit:item/potions/bottle/splash/red"
+  }
+}
