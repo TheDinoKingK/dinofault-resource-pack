@@ -57,5 +57,8 @@ Mojang
 [fre1q]()  
 &ensp; Colored slot highlight inspired by their [Green Slot Highlight](https://modrinth.com/resourcepack/green-slot-highlight/gallery) pack
 
+[Myrisky](https://modrinth.com/user/Myrisky)  
+&ensp; Stole the color-coded enchantments from their [Color Enchantment](https://modrinth.com/resourcepack/color-enchantment) pack
+
 [CraftyGamer_](https://www.planetminecraft.com/member/craftygamer_/)  
 &ensp; Recipe Book uncraftable switch, and maybe more, were inspired by their [Tranquil gui](https://www.planetminecraft.com/texture-pack/tranquil-4147413/) pack.
