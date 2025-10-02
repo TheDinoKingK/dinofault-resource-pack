@@ -1,0 +1,64 @@
+{
+  "model": {
+    "type": "composite",
+    "models": [
+      {
+        "type": "model",           
+        "model": "item/diamond_sword"
+      },
+      {
+        "type": "condition",
+        "property": "minecraft:component",
+        "predicate": "minecraft:enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:knockback",
+            "levels": 1
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "dinos-cit:item/sword/enchants/kb_1"
+        },
+        "on_false": {
+          "type": "empty"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "minecraft:component",
+        "predicate": "minecraft:enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:knockback",
+            "levels": 2
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "dinos-cit:item/sword/enchants/kb_2"
+        },
+        "on_false": {
+          "type": "empty"
+        }
+      },
+      {
+        "type": "condition",
+        "property": "minecraft:component",
+        "predicate": "minecraft:enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:fire_aspect"
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "dinos-cit:item/sword/enchants/fire_aspect"
+        },
+        "on_false": {
+          "type": "empty"
+        }
+      }
+    ]
+  }
+} 
