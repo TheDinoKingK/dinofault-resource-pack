@@ -1,6 +1,11 @@
-# dinofault-resource-pack
+<p align="center">
+  <img width="800" alt="Dinofault logo" src="https://github.com/user-attachments/assets/8d91ace0-8733-4c49-8c76-352fe448da39" />
+</p>
+
+----------------------
+
 A minecraft java resource pack with the goal of making the game beautiful to my tastes in almost every way possible  
-Includes both the full texture pack and any extra overlay packs I may add in the future  
+Includes the full pack in various "modules" you can download separately
 
 # Disclaimer(s)
 This is resource pack is like a "mashup pack", as alot of assets were inspired or taken from other resource packs made by amazing people.  
@@ -47,6 +52,7 @@ Sure! Just give credit where you can and a link to the original place you found 
 ## Can I use some of your resources in my own resource pack?
 Perfectly fine if it's for personal use!  
 If you're planning to upload it on the other hand, please make sure to credit me somewhere, and check the credits document aswell (since not everything is made by me!)
+
 
 
 
