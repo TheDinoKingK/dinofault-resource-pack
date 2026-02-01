@@ -8,24 +8,6 @@
         "predicate": "minecraft:enchantments",
         "value": [
           {
-            "enchantments": "minecraft:density"
-          }
-        ],
-        "on_true": {
-          "type": "model",
-          "model": "dinos-cit:item/mace/mace_density"
-        },
-        "on_false": {
-          "type": "model",
-          "model": "item/mace"
-        }
-      },
-      {
-        "type": "condition",
-        "property": "minecraft:component",
-        "predicate": "minecraft:enchantments",
-        "value": [
-          {
             "enchantments": "minecraft:breach"
           }
         ],
@@ -34,10 +16,25 @@
           "model": "dinos-cit:item/mace/mace_breach"
         },
         "on_false": {
-          "type": "empty"
+          "type": "condition",
+          "property": "minecraft:component",
+          "predicate": "minecraft:enchantments",
+          "value": [
+            {
+              "enchantments": "minecraft:density"
+            }
+          ],
+          "on_true": {
+            "type": "model",
+            "model": "dinos-cit:item/mace/mace_density"
+          },
+          "on_false": {
+            "type": "model",
+            "model": "item/mace"
+          }
         }
       },
-            {
+      {
         "type": "condition",
         "property": "minecraft:component",
         "predicate": "minecraft:enchantments",
@@ -47,8 +44,22 @@
           }
         ],
         "on_true": {
-          "type": "model",
-          "model": "dinos-cit:item/mace/mace_wind_burst"
+          "type": "condition",
+          "property": "minecraft:component",
+          "predicate": "minecraft:enchantments",
+          "value": [
+            {
+              "enchantments": "minecraft:breach"
+            }
+          ],
+          "on_true": {
+            "type": "model",
+            "model": "dinos-cit:item/mace/mace_wind_burst_breach"
+          },
+          "on_false": {
+            "type": "model",
+            "model": "dinos-cit:item/mace/mace_wind_burst"
+          }
         },
         "on_false": {
           "type": "empty"
@@ -56,4 +67,4 @@
       }
     ]
   }
-} 
+}

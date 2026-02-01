@@ -1,0 +1,6 @@
+{
+  "parent": "dinos-cit:item/handheld_mace_trim",
+  "textures": {
+    "layer0": "dinos-cit:item/mace/mace_wind_burst_breach"
+  }
+}
