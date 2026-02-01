@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" alt="Dinofault logo" src="https://github.com/user-attachments/assets/8d91ace0-8733-4c49-8c76-352fe448da39" />
+  <img width="800" alt="Dinofault logo" src="logo-readme.png" />
 </p>
 
 ----------------------
